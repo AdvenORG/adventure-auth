@@ -6,7 +6,7 @@ adventure
 
 ## Client
 
-Client ID : adventure-realm
+Client ID : adventure-client
 
 ## Valid Redirect URIs
 
